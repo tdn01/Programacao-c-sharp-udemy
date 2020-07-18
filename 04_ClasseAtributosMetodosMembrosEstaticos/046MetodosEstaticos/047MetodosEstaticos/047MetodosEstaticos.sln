@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "047MetodosEstaticos", "047MetodosEstaticos\047MetodosEstaticos.csproj", "{9BE77C44-5060-4ABB-80D6-95CFBF3F1C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE77C44-5060-4ABB-80D6-95CFBF3F1C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE77C44-5060-4ABB-80D6-95CFBF3F1C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE77C44-5060-4ABB-80D6-95CFBF3F1C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE77C44-5060-4ABB-80D6-95CFBF3F1C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B805B0E-8060-4BEA-A116-6701F7E41391}
+	EndGlobalSection
+EndGlobal
